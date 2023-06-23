@@ -1,0 +1,28 @@
+C:\Users\lenys\source\repos\GestionBD\bin\Debug\GestionBD.dll
+C:\Users\lenys\source\repos\GestionBD\bin\Debug\GestionBD.pdb
+C:\Users\lenys\source\repos\GestionBD\bin\Debug\MySql.Data.dll
+C:\Users\lenys\source\repos\GestionBD\bin\Debug\System.Memory.dll
+C:\Users\lenys\source\repos\GestionBD\obj\Debug\GestionBD.csproj.AssemblyReference.cache
+C:\Users\lenys\source\repos\GestionBD\obj\Debug\GestionBD.csproj.CoreCompileInputs.cache
+C:\Users\lenys\source\repos\GestionBD\obj\Debug\GestionBD.csproj.CopyComplete
+C:\Users\lenys\source\repos\GestionBD\obj\Debug\GestionBD.dll
+C:\Users\lenys\source\repos\GestionBD\obj\Debug\GestionBD.pdb
+C:\Users\lenys\source\repos\GestionBD\bin\Debug\MySql.Data.xml
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\GestionBD\bin\Debug\GestionBD.dll
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\GestionBD\bin\Debug\GestionBD.pdb
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\GestionBD\bin\Debug\System.Memory.dll
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\GestionBD\bin\Debug\MySql.Data.xml
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\GestionBD\obj\Debug\GestionBD.csproj.AssemblyReference.cache
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\GestionBD\obj\Debug\GestionBD.csproj.CoreCompileInputs.cache
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\GestionBD\obj\Debug\GestionBD.csproj.CopyComplete
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\GestionBD\obj\Debug\GestionBD.dll
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\GestionBD\obj\Debug\GestionBD.pdb
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\GestionBD\bin\Debug\GestionBD.dll
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\GestionBD\bin\Debug\GestionBD.pdb
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\GestionBD\bin\Debug\System.Memory.dll
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\GestionBD\bin\Debug\MySql.Data.xml
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\GestionBD\obj\Debug\GestionBD.csproj.AssemblyReference.cache
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\GestionBD\obj\Debug\GestionBD.csproj.CoreCompileInputs.cache
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\GestionBD\obj\Debug\GestionBD.csproj.CopyComplete
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\GestionBD\obj\Debug\GestionBD.dll
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\GestionBD\obj\Debug\GestionBD.pdb

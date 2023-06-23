@@ -1,0 +1,78 @@
+C:\Users\lenys\source\repos\Boutique\obj\Debug\Boutique.csproj.AssemblyReference.cache
+C:\Users\lenys\source\repos\Boutique\obj\Debug\Boutique.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenys\source\repos\Boutique\obj\Debug\Boutique.Properties.Resources.resources
+C:\Users\lenys\source\repos\Boutique\obj\Debug\Boutique.csproj.GenerateResource.cache
+C:\Users\lenys\source\repos\Boutique\obj\Debug\Boutique.csproj.CoreCompileInputs.cache
+C:\Users\lenys\source\repos\Boutique\obj\Debug\Boutique.csproj.CopyComplete
+C:\Users\lenys\source\repos\Boutique\bin\Debug\GestionBD.dll
+C:\Users\lenys\source\repos\Boutique\bin\Debug\GestionBD.pdb
+C:\Users\lenys\source\repos\Boutique\bin\Debug\MySql.Data.dll
+C:\Users\lenys\source\repos\Boutique\bin\Debug\System.Memory.dll
+C:\Users\lenys\source\repos\Boutique\obj\Debug\Boutique.FrmConnexion.resources
+C:\Users\lenys\source\repos\Boutique\bin\Debug\s.exe.config
+C:\Users\lenys\source\repos\Boutique\bin\Debug\s.exe
+C:\Users\lenys\source\repos\Boutique\bin\Debug\s.pdb
+C:\Users\lenys\source\repos\Boutique\obj\Debug\s.exe
+C:\Users\lenys\source\repos\Boutique\obj\Debug\s.pdb
+C:\Users\lenys\source\repos\Boutique\obj\Debug\Boutique.FrmAPropos.resources
+C:\Users\lenys\source\repos\Boutique\bin\Debug\MySql.Data.xml
+C:\Users\lenys\source\repos\Boutique\obj\Debug\Boutique.FrmHome.resources
+C:\Users\lenys\source\repos\Boutique\obj\Debug\Boutique.FrmMain.resources
+C:\Users\lenys\source\repos\Boutique\obj\Debug\Boutique.FrmCategorie.resources
+C:\Users\lenys\source\repos\Boutique\obj\Debug\Boutique.FrmProduit.resources
+C:\Users\lenys\source\repos\Boutique\obj\Debug\Boutique.FrmLDC.resources
+C:\Users\lenys\source\repos\Boutique\obj\Debug\Boutique.FrmFournisseur.resources
+C:\Users\lenys\source\repos\Boutique\obj\Debug\Boutique.FrmCommande.resources
+C:\Users\lenys\source\repos\Boutique\obj\Debug\Boutique.FrmClient.resources
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\Boutique\bin\Debug\s.exe.config
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\Boutique\bin\Debug\s.exe
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\Boutique\bin\Debug\s.pdb
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\Boutique\bin\Debug\GestionBD.dll
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\Boutique\bin\Debug\MySql.Data.dll
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\Boutique\bin\Debug\System.Memory.dll
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\Boutique\bin\Debug\GestionBD.pdb
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\Boutique\bin\Debug\MySql.Data.xml
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\Boutique\obj\Debug\Boutique.csproj.AssemblyReference.cache
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\Boutique\obj\Debug\Boutique.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\Boutique\obj\Debug\Boutique.FrmAPropos.resources
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\Boutique\obj\Debug\Boutique.FrmConnexion.resources
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\Boutique\obj\Debug\Boutique.FrmHome.resources
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\Boutique\obj\Debug\Boutique.FrmProduit.resources
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\Boutique\obj\Debug\Boutique.FrmLDC.resources
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\Boutique\obj\Debug\Boutique.FrmFournisseur.resources
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\Boutique\obj\Debug\Boutique.FrmCommande.resources
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\Boutique\obj\Debug\Boutique.FrmClient.resources
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\Boutique\obj\Debug\Boutique.FrmCategorie.resources
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\Boutique\obj\Debug\Boutique.Properties.Resources.resources
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\Boutique\obj\Debug\Boutique.FrmMain.resources
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\Boutique\obj\Debug\Boutique.csproj.GenerateResource.cache
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\Boutique\obj\Debug\Boutique.csproj.CoreCompileInputs.cache
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\Boutique\obj\Debug\Boutique.csproj.CopyComplete
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\Boutique\obj\Debug\s.exe
+C:\Users\lenys\Desktop\Works\AppWindow\App Windows\Boutique\obj\Debug\s.pdb
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\Boutique\bin\Debug\s.exe.config
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\Boutique\bin\Debug\s.exe
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\Boutique\bin\Debug\s.pdb
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\Boutique\bin\Debug\GestionBD.dll
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\Boutique\bin\Debug\MySql.Data.dll
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\Boutique\bin\Debug\System.Memory.dll
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\Boutique\bin\Debug\GestionBD.pdb
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\Boutique\bin\Debug\MySql.Data.xml
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\Boutique\obj\Debug\Boutique.csproj.AssemblyReference.cache
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\Boutique\obj\Debug\Boutique.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\Boutique\obj\Debug\Boutique.FrmAPropos.resources
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\Boutique\obj\Debug\Boutique.FrmConnexion.resources
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\Boutique\obj\Debug\Boutique.FrmHome.resources
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\Boutique\obj\Debug\Boutique.FrmProduit.resources
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\Boutique\obj\Debug\Boutique.FrmLDC.resources
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\Boutique\obj\Debug\Boutique.FrmFournisseur.resources
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\Boutique\obj\Debug\Boutique.FrmCommande.resources
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\Boutique\obj\Debug\Boutique.FrmClient.resources
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\Boutique\obj\Debug\Boutique.FrmCategorie.resources
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\Boutique\obj\Debug\Boutique.Properties.Resources.resources
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\Boutique\obj\Debug\Boutique.FrmMain.resources
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\Boutique\obj\Debug\Boutique.csproj.GenerateResource.cache
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\Boutique\obj\Debug\Boutique.csproj.CoreCompileInputs.cache
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\Boutique\obj\Debug\Boutique.csproj.CopyComplete
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\Boutique\obj\Debug\s.exe
+C:\Users\lenys\Desktop\Works\!DEV\Software\App Windows\Boutique\obj\Debug\s.pdb
