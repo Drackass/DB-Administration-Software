@@ -203,13 +203,6 @@ $ git init
 
 ---
 
-<!---
-npx contributer-faces --exclude "*bot*" --limit 70 --repo "https://github.com/amplication/amplication"
-
-change the height and width for each of the contributors from 80 to 50.
---->
-
-[//]: contributor-faces
 [//]: contributor-faces
 
 </br>
