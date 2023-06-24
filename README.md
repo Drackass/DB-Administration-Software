@@ -113,9 +113,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ```bash
 # git initialization
 $ git init
+
 ```
 
-> 💡 Tips
+> * **Gras**
+> * *Italique*
+> * ~~Barré~~
+
+> The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
+> 💡 **Tips**
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 > 
 > **Note**
