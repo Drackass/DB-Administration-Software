@@ -119,18 +119,27 @@ $ git init
 > * **Gras**
 > * *Italique*
 > * ~~Barré~~
+> * [Special Link](https://example.com).
+> * `#ffffff`
 
-> The background color is `#ffffff` for light mode and `#000000` for dark mode.
+> 1. Lorem
+> 2. Lorem
+> 3. Lorem
+
+> * Lorem
+> * Lorem
+> * Lorem
+>   * Lorem
+>     * Lorem
 
 > 💡 **Tips**
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-> 
+
 > **Note**
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-> 
+
 > **Warning**
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-> Lorem [ipsum dolor](https://example.com) sit amet, consectetur adipiscing elit, sed do `eiusmod tempor` incididunt ut labore et dolore magna aliqua.
 
 > Lorem[^1] ipsum[^2]
 
@@ -140,13 +149,12 @@ $ git init
 > | Lorem   | ❌ |
 > | Lorem   | ⚠️ |
 > | Lorem   | ℹ️ |
->
-> 
+
 </details>
 
 ---
 
-[//]: contributor-faces
+<sub>`Contributors Here`</sub>
 
 </br>
 
