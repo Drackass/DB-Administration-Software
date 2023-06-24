@@ -119,7 +119,7 @@
 >
 > | Login Page |
 > |:---:|
-> | <img alt="log" src="https://github.com/Drackass/DB-Administration-Software/blob/main/ForGithub/home.png" width="1000px"> |
+> | <img alt="log" src="https://github.com/Drackass/DB-Administration-Software/blob/main/ForGithub/log.png" width="1000px"> |
 >
 > | Admin Panel Page |
 > |:---:|
