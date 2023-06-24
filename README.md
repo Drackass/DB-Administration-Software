@@ -38,21 +38,23 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br/>
 
 > ### 🔎 Sub-summary
-> 1. [Lorem ipsum](https://example.com)
-> 2. [Lorem ipsum](https://example.com)
-> 3. [Lorem ipsum](https://example.com)
+> 1. [Part A](#Part-A)
+> 2. [Part B](#Part-B)
+> 3. [Part C](#Part-C)
 >    
 > <br/>
 >
-> ### 📌 Lorem ipsum
+> ### 📌 Part A
 > 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-```bash
-# git initialization
-$ git init
-
-```
+>
+> ### 📌 Part B
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+>
+> ### 📌 Part C
+> 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 </details>
 
@@ -60,21 +62,7 @@ $ git init
 <summary><h2>📗 Lorem ipsum dolor</h2></summary>
 <br/>
 
-> ### 🔎 Sub-summary
-> 1. [Lorem ipsum](https://example.com)
-> 2. [Lorem ipsum](https://example.com)
-> 3. [Lorem ipsum](https://example.com)
->    
-> <br/>
->
-> ### 📌 Lorem ipsum
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
->
-> 1. First list item
->   - First nested list item
->     - Second nested list item
-
+> 📗
 
 </details>
 
@@ -82,17 +70,51 @@ $ git init
 <summary><h2>📘 Lorem ipsum dolor</h2></summary>
 <br/>
 
-> ### 🔎 Sub-summary
-> 1. [Lorem ipsum](https://example.com)
-> 2. [Lorem ipsum](https://example.com)
-> 3. [Lorem ipsum](https://example.com)
->    
-> <br/>
->
-> ### 📌 Lorem ipsum
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
->
+> 📘
+
+</details>
+
+<details>
+<summary><h2>📙 Lorem ipsum dolor</h2></summary>
+<br/>
+
+> 📙
+
+</details>
+
+<details>
+<summary><h2>📓 Lorem ipsum dolor</h2></summary>
+<br/>
+
+> 📓
+
+</details>
+
+<details>
+<summary><h2>📒 Lorem ipsum dolor</h2></summary>
+<br/>
+
+> 📒
+
+</details>
+
+<details>
+<summary><h2>📔 Lorem ipsum dolor</h2></summary>
+<br/>
+  
+> 📔
+
+</details>
+
+<details>
+<summary><h2>📃 Elements</h2></summary>
+<br/>
+
+```bash
+# git initialization
+$ git init
+```
+
 > 💡 Tips
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 > 
@@ -101,104 +123,18 @@ $ git init
 > 
 > **Warning**
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-</details>
-
-<details>
-<summary><h2>📙 Lorem ipsum dolor</h2></summary>
-<br/>
-  
-> ### 🔎 Sub-summary
-> 1. [Lorem ipsum](https://example.com)
-> 2. [Lorem ipsum](https://example.com)
-> 3. [Lorem ipsum](https://example.com)
->    
-> <br/>
->
-> ### 📌 Lorem ipsum
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
->
 > Lorem [ipsum dolor](https://example.com) sit amet, consectetur adipiscing elit, sed do `eiusmod tempor` incididunt ut labore et dolore magna aliqua.
 
-</details>
+> Lorem[^1] ipsum[^2]
 
-<details>
-<summary><h2>📓 Lorem ipsum dolor</h2></summary>
-<br/>
-  
-> ### 🔎 Sub-summary
-> 1. [Lorem ipsum](https://example.com)
-> 2. [Lorem ipsum](https://example.com)
-> 3. [Lorem ipsum](https://example.com)
->    
-> <br/>
->
-> ### 📌 Lorem ipsum
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
->
-> Lorem ipsum dolor[^1] sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt[^2] ut labore et dolore magna aliqua.
-
-</details>
-
-<details>
-<summary><h2>📒 Lorem ipsum dolor</h2></summary>
-<br/>
-  
-> ### 🔎 Sub-summary
-> 1. [Lorem ipsum](https://example.com)
-> 2. [Lorem ipsum](https://example.com)
-> 3. [Lorem ipsum](https://example.com)
->    
-> <br/>
->
-> ### 📌 Lorem ipsum
-> 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
->
 > | Lorem | Ipsum|
 > |:---| :---:|
 > | Lorem   | ✅ |
 > | Lorem   | ❌ |
 > | Lorem   | ⚠️ |
 > | Lorem   | ℹ️ |
-
-</details>
-
-<details>
-<summary><h2>📔 Lorem ipsum dolor</h2></summary>
-<br/>
-  
-> ### 🔎 Sub-summary
-> 1. [Lorem ipsum](https://example.com)
-> 2. [Lorem ipsum](https://example.com)
-> 3. [Lorem ipsum](https://example.com)
->    
-> <br/>
 >
-> ### 📌 Lorem ipsum
 > 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
->
-
-
-</details>
-
-<details>
-<summary><h2>📃 Lorem ipsum dolor</h2></summary>
-<br/>
-  
-> 1. [Lorem ipsum](https://example.com)
-> 2. [Lorem ipsum](https://example.com)
-> 3. [Lorem ipsum](https://example.com)
-> 4. [Lorem ipsum](https://example.com)
-> 5. [Lorem ipsum](https://example.com)
->
-> <br/>
->
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 </details>
 
 ---
