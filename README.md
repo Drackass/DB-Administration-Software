@@ -28,8 +28,8 @@
 
 This repository is made to contain a Database administration software coded in C# with a modern and professional design. 
 <div align="center">
-  <img alt="Main Banner" src="https://github.com/Drackass/Readme-Template/blob/main/empty.png" width="350px">
-  <img alt="Main Banner" src="https://github.com/Drackass/Readme-Template/blob/main/empty.png" width="350px">
+  <img alt="Main Banner" src="https://github.com/Drackass/DB-Administration-Software/blob/main/ForGithub/home.png" width="400px">
+  <img alt="Main Banner" src="https://github.com/Drackass/DB-Administration-Software/blob/main/ForGithub/admin-panel.png" width="400px">
 </div>
 
 # 📚 Table of contents
