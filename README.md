@@ -38,9 +38,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br/>
 
 > ### 🔎 Sub-summary
-> 1. [Part A](#Part-A)
-> 2. [Part B](#Part-B)
-> 3. [Part C](#Part-C)
+> 1. [Part A](#-Part-A)
+> 2. [Part B](#-Part-B)
+> 3. [Part C](#-Part-C)
 >    
 > <br/>
 >
