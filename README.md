@@ -45,8 +45,8 @@
 >
 > ### 📌 Project presentation
 >
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
->
+> A database administration software coded in C#.net still in development adapted and improved from a school project coded in VB.Net. it includes an intuitive and ergonomic Navigation, whether on its design thought to be adaptable and customizable, the implementation of drop-down menus, a place reserved for the logo or even on its modern and professional color palette all this with a certain quality of the man-machine interface. It allows a simplified management of additions, modification, deletion and visualization of data according to the rights allowed by the connected user. Input controls are total and operational, an advanced search of tables and the complete database and also implement as well as the Generation of a pdf of an automatic data summary for each table The project respects a good number of good practices whether for naming, factorization, regions, comments, the use of store procedures and triggers, storage and the creation of a class library (dll) allowing exchange with database data.
+> 
 > ### 📌 Technologies
 > 
 > [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
@@ -65,7 +65,7 @@
 >
 > ### 📌 The project's aim
 > 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> this software aims to have an operation and an autonomous interface according to the database connected to it while keeping a complete practice taking into account the different parameters and functions of a classic database administration software like the management of functions, stored procedure, trigger, etc . . .
 
 </details>
 
