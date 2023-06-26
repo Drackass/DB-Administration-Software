@@ -70,7 +70,7 @@
 </details>
 
 <details>
-<summary><h2>📗 Launch</h2></summary>
+<summary><h2>📗 Setup</h2></summary>
 <br/>
 
 > ### 🔎 Sub-summary
@@ -110,7 +110,20 @@
 </details>
 
 <details>
-<summary><h2>📘 Screenshots</h2></summary>
+<summary><h2>📘 Scope of functionalities </h2></summary>
+<br/>
+
+> | functionalities | State | Description | 
+> |:---| :---:|:---|
+> | Lorem   | ✅ | - |
+> | Lorem   | ❎ | - |
+> | Lorem   | ⚠️ | - |
+> | Lorem   | ℹ️ | - |
+
+</details>
+
+<details>
+<summary><h2>📙 Screenshots</h2></summary>
 <br/>
 
 > | Home Page |
@@ -140,47 +153,18 @@
 </details>
 
 <details>
-<summary><h2>📙 Scope of functionalities </h2></summary>
-<br/>
-
-> | functionalities | State | Description | 
-> |:---| :---:|:---|
-> | Lorem   | ✅ | - |
-> | Lorem   | ❎ | - |
-> | Lorem   | ⚠️ | - |
-> | Lorem   | ℹ️ | - |
-
-</details>
-
-<details>
-<summary><h2>📓 Examples of use</h2></summary>
-<br/>
-
-> * Lorem
-> * Lorem
-> * Lorem
-
-</details>
-
-<details>
-<summary><h2>📒 Project status</h2></summary>
-<br/>
-
-> 📒
-
-</details>
-
-<details>
-<summary><h2>📔 Sources</h2></summary>
+<summary><h2>📓 Sources</h2></summary>
 <br/>
   
-> 📔
+> 📓
 
 </details>
 
 <details>
 <summary><h2>📃 Other information</h2></summary>
 <br/>
+
+> 📃
 
 </details>
 
