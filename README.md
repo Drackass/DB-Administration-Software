@@ -7,7 +7,8 @@
 </div>
 
 # 📊 DataBase Administration Software 
-### 
+
+> **Warning** This README.md file and this project are still under development.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Drackass/Drackass/blob/main/banner-dark.png">
