@@ -14,11 +14,6 @@
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
-
--- Listage de la structure de la base pour sauzet_boutique
-CREATE DATABASE IF NOT EXISTS `sauzet_boutique` /*!40100 DEFAULT CHARACTER SET latin1 */;
-USE `sauzet_boutique`;
-
 -- Listage de la structure de table sauzet_boutique. categorie
 CREATE TABLE IF NOT EXISTS `categorie` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
