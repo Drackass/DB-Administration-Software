@@ -32,7 +32,7 @@ namespace Boutique
         private void btnPreSet_Click(object sender, EventArgs e)
         {
             tbServeur.Text = "localhost";
-            tbBase.Text = "sauzet_boutique"; //A adapter bien entendu...
+            tbBase.Text = "sauzet_boutique";
             tbId.Text = "root";
             tbMDP.Text = "";
         }
