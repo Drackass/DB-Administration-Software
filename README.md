@@ -96,18 +96,18 @@
 > 1. Start **WampServer** environment.
 > 2. import the `DataBase.sql` database into your database administration software. (*HeidiSQL*)
 > 3. Launch the software in **Visual Studio**.
-
-> **Note**
+>
+> | Home Page |
+> |:---:|
+> | <img alt="home" src="https://github.com/Drackass/DB-Administration-Software/blob/main/ForGithub/home.png" width="1000px"> |
+>
+>  **Note**
 > If you encounter the `Mark of the Web` error, which is a common error on **visual studio**, please follow these instructions :
 > 1. Right-click on the FrmMain.resx file in Visual Studio's Solution Explorer.
 > 2. Select Properties.
 > 3. In the properties, look for the "Security" or "General" section.If you see an "Unblock" option or something similar, click on it to unblock the file.
 > 4. Save the changes and try rebuilding your project to see if the error persists.
 
-> | Home Page |
-> |:---:|
-> | <img alt="home" src="https://github.com/Drackass/DB-Administration-Software/blob/main/ForGithub/home.png" width="1000px"> |
->
 > ### 📌 Configuration
 > 
 > You can modify the file `FrmConnexion.cs` to automatically fill in the login information in the form.
