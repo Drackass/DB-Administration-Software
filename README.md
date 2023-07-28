@@ -6,16 +6,16 @@
   </picture>
 </div>
 
-# 📊 DataBase Administration Software 
+# 📊 DataBase Administration Software
 
-> **Warning** This README.md file and this project are still under development.
+> **Warning**
+> This README.md file and this project are still under development.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Drackass/Drackass/blob/main/banner-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Drackass/Drackass/blob/main/banner-light.png">
   <img alt="Main Banner" src="https://github.com/Drackass/Drackass/blob/main/banner-dark.png">
 </picture>
-
 </br>
 </br>
 
@@ -50,19 +50,19 @@
 > 
 > ### 📌 Technologies
 > 
-> [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=101010)]()
+>[![Windows](https://img.shields.io/badge/Windows-00afef?style=for-the-badge&logo=windows&logoColor=white&labelColor=00afef)](https://docs.microsoft.com/en-us/windows/)
 >
-> [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)]()
+>[![C#](https://img.shields.io/badge/C%23-058c0b?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=058c0b)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 >
-> [![Wamp](https://img.shields.io/badge/Wamp-A9181E?style=for-the-badge&labelColor=101010)]()
+>[![Wamp](https://img.shields.io/badge/Wamp-f70094?style=for-the-badge&logo=webflow&logoColor=white&labelColor=f70094)](https://www.wampserver.com/en/)
 >
-> [![HeidiSQL](https://img.shields.io/badge/HeidiSQL-4479A1?style=for-the-badge&labelColor=101010)]()
+>[![HeidiSQL](https://img.shields.io/badge/HeidiSQL-328400?style=for-the-badge&labelColor=328400)](https://www.heidisql.com/help.php)
 >
-> [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white&labelColor=101010)]()
+>[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-662e93?style=for-the-badge&logo=visual%20studio&logoColor=white&labelColor=662e93)](https://docs.microsoft.com/en-us/visualstudio/)
 >
-> [![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=101010)]()
+>[![.NET Framework](https://img.shields.io/badge/.NET%20Framework-5027d5?style=for-the-badge&logo=.net&logoColor=white&labelColor=5027d5)](https://docs.microsoft.com/en-us/dotnet/framework/)
 >
-> [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+>[![SQL](https://img.shields.io/badge/SQL-3199da?style=for-the-badge&logoColor=white&labelColor=3199da)](https://www.w3schools.com/sql/)
 >
 > ### 📌 The project's aim
 > 
@@ -71,55 +71,81 @@
 </details>
 
 <details>
-<summary><h2>📗 Setup</h2></summary>
+<summary><h2>📗 Setup and Usage</h2></summary>
 <br/>
 
 > ### 🔎 Sub-summary
-> 1. [Part A](#-part-a)
-> 2. [Part B](#-part-b)
-> 3. [Part C](#-part-c)
+> 1. [Prerequisites](#-prerequisites)
+> 2. [Installation](#-installation)
+> 3. [Configuration](#-configuration)
 >    
 > <br/>
 >
-> ### 📌 Part A
->
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> ### 📌 Prerequisites
 > 
-> <div align="center">
->   <img alt="Main Banner" src="https://github.com/Drackass/Readme-Template/blob/main/empty.png" width="350px">
-> </div>
+>[![Windows](https://img.shields.io/badge/Windows-00afef?style=for-the-badge&logo=windows&logoColor=white&labelColor=00afef)](https://docs.microsoft.com/en-us/windows/)
 >
-> ### 📌 Part B
+>[![Wamp](https://img.shields.io/badge/Wamp-f70094?style=for-the-badge&logo=webflow&logoColor=white&labelColor=f70094)](https://www.wampserver.com/en/)
+>
+>[![HeidiSQL](https://img.shields.io/badge/HeidiSQL-328400?style=for-the-badge&labelColor=328400)](https://www.heidisql.com/help.php)
+>
+>[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-662e93?style=for-the-badge&logo=visual%20studio&logoColor=white&labelColor=662e93)](https://docs.microsoft.com/en-us/visualstudio/)
+>
+> ### 📌 Installation
+>
+> 1. Start **WampServer** environment.
+> 2. import the `DataBase.sql` database into your database administration software. (*HeidiSQL*)
+> 3. Launch the software in **Visual Studio**.
+>
+> | Home Page |
+> |:---:|
+> | <img alt="home" src="https://github.com/Drackass/DB-Administration-Software/blob/main/ForGithub/home.png" width="1000px"> |
+>
+> ### 📌 Configuration
 > 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
->
-> <div align="center">
->   <img alt="Main Banner" src="https://github.com/Drackass/Readme-Template/blob/main/empty.png" width="350px">
->   <img alt="Main Banner" src="https://github.com/Drackass/Readme-Template/blob/main/empty.png" width="350px">
-> </div>
->
-> ### 📌 Part C
+> You can modify the file `FrmConnexion.cs` to automatically fill in the login information in the form.
 > 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ ```csharp
+        private void btnPreSet_Click(object sender, EventArgs e)
+        {
+            tbServeur.Text = "server";
+            tbBase.Text = "DataBase";
+            tbId.Text = "id";
+            tbMDP.Text = "password";
+        }
+
+```
 >
-> <div align="center">
->   <img alt="Main Banner" src="https://github.com/Drackass/Readme-Template/blob/main/empty.png" width="350px">
->   <img alt="Main Banner" src="https://github.com/Drackass/Readme-Template/blob/main/empty.png" width="350px">
->   <img alt="Main Banner" src="https://github.com/Drackass/Readme-Template/blob/main/empty.png" width="350px">
-> </div>
+> | Login Page |
+> |:---:|
+> | <img alt="log" src="https://github.com/Drackass/DB-Administration-Software/blob/main/ForGithub/log.png" width="1000px"> |
+>
 
 </details>
 
 <details>
-<summary><h2>📘 Scope of functionalities </h2></summary>
+<summary><h2>📘 Scope of functionalities</h2></summary>
 <br/>
 
 > | functionalities | State | Description | 
 > |:---| :---:|:---|
-> | Lorem   | ✅ | - |
-> | Lorem   | ❎ | - |
-> | Lorem   | ⚠️ | - |
-> | Lorem   | ℹ️ | - |
+> | Intuitive navigation / Menus / Design / Consistency, HMI quality, professional appearance   | ✅ | - |
+> | Add/Modify/Delete form(s) for a selected table   | ✅ | - |
+> | Operational total input controls (regular expressions, errorProvider, etc.)   | ✅ | - |
+> | Advanced tuple search (e.g. customer or product)   | ✅ | - |
+> | Operational and ergonomic order management   | ✅ | - |
+> | Generate pdf order summary   | ✅ | - |
+> | Best naming and storage practices   | ✅ | - |
+> | Code factoring (getLesTuples, executerRequeteSelect, etc.)   | ✅ | - |
+> | Input control code (use of regexes, etc.)   | ✅ | - |
+> | calling up a STORED PROCEDURE set up for CONSULTATION   | ✅ | - |
+> | call (application side) and code of parameterized procedure   | ✅ | - |
+> | call a STORED PROCEDURE set to ACTION   | ✅ | - |
+> | call a parameterized STORED FUNCTION   | ✅ | - |
+> | automatic TRIGGER call   | ✅ | - |
+> | Multi-connection mode with multiple users and associated MySql rights   | ✅ | - |
+> | Visualization Database Views, procedures, functions, triggers, events on the software  | ❎ | - |
+> | automatic software adaptability to database structure and data   | ❎ | - |
 
 </details>
 
@@ -156,17 +182,29 @@
 <details>
 <summary><h2>📓 Sources</h2></summary>
 <br/>
-  
-> 📓
 
-</details>
-
-<details>
-<summary><h2>📃 Other information</h2></summary>
-<br/>
-
-> 📃
-
+> ### 🔎 Sub-summary
+> 1. [External libraries](#-external-libraries)
+> 2. [Data sources](#-data-sources)
+> 3. [References](#-references)
+>    
+> <br/>
+>
+> ### 📌 External libraries
+>
+>  | libraries | Description |
+> |-|-|
+> |`MySql.Data.dll`| is a .NET data provider that enables communication between a .NET application and a MySQL database. It provides a set of classes and methods that allow developers to connect to, query, and manage data in a MySQL database from within their .NET applications. This DLL is widely used in .NET projects that need to interact with MySQL databases, enabling seamless data integration and manipulation.|
+> |`itextsharp.dll`| is a popular open-source library for working with PDF documents in the .NET environment. It allows developers to create, manipulate, and extract content from PDF files programmatically. With iTextSharp.dll, you can generate PDF files from scratch, merge existing PDFs, add images, text, tables, and other elements to PDF documents, and even digitally sign them. This library is commonly used in various .NET applications that require PDF processing, such as generating reports, filling forms, or managing document workflows. Note that iTextSharp.dll is a port of the original Java iText library adapted for .NET development.|
+>
+> ### 📌 Data sources
+>
+> I used a data generation tool called [generatedata](https://generatedata.com/generator) to randomly generate data for my database.
+>
+> ### 📌 References
+>
+> This database administration software coded in C#.net is adapted and improved from a school project coded in VB.Net by **O.ALBERT** & **B.ROUCHON**.
+>
 </details>
 
 ---
