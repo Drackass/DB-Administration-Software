@@ -100,7 +100,7 @@
 > | Home Page |
 > |:---:|
 > | <img alt="home" src="https://github.com/Drackass/DB-Administration-Software/blob/main/ForGithub/home.png" width="1000px"> |
->
+
 >  **Note**
 > If you encounter the `Mark of the Web` error, which is a common error on **visual studio**, please follow these instructions :
 > 1. Right-click on the FrmMain.resx file in Visual Studio's Solution Explorer.
